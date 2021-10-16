@@ -13,7 +13,7 @@ A way to store values in your code.
 ### Assignment statement:
 the statement that attaches the value to the variable.
 ### Function: 
-Built in code that can make writting code much easier an exmaple is len().![IMG_1449 3](https://user-images.githubusercontent.com/55675795/137571808-bce6a588-0e59-452c-a535-ef8c867dfbf8.jpeg)
+Built in code that can make writting code much easier an exmaple is len().
 
 ### Three data types:
 Int- 3
