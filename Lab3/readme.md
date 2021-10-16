@@ -1,6 +1,4 @@
 ![Python1](https://user-images.githubusercontent.com/55675795/137567004-bd0d158e-d1bf-4b94-8f97-b096bdef772d.png)
-![Python1](https://user-images.githubusercontent.com/55675795/137567008-73bda92d-7089-4000-995f-91b05a4f9836.png)
-![Python1](https://user-images.githubusercontent.com/55675795/137567012-1bf16291-b98d-4c8e-bd12-165d72b4f522.png)
 ## Your Name / Date
 
 ## Executive Summary 
