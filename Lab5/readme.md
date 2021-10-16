@@ -4,6 +4,8 @@
 Include your executive summary here...
 
 ## Lucidchart
+[Blank Diagram (1).pdf](https://github.com/ComeBacKyle/IT1025/files/7356854/Blank.Diagram.1.pdf)
+
 
 ## Introduction to Networking
 
