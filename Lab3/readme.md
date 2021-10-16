@@ -1,3 +1,6 @@
+![Python1](https://user-images.githubusercontent.com/55675795/137567004-bd0d158e-d1bf-4b94-8f97-b096bdef772d.png)
+![Python1](https://user-images.githubusercontent.com/55675795/137567008-73bda92d-7089-4000-995f-91b05a4f9836.png)
+![Python1](https://user-images.githubusercontent.com/55675795/137567012-1bf16291-b98d-4c8e-bd12-165d72b4f522.png)
 ## Your Name / Date
 
 ## Executive Summary 
@@ -29,8 +32,16 @@ Interpreted languages translate just one statement at a time, while Compiled doe
 ## Career Exploration
 ### Handshake
 ### Bureau of Labor Statistics
+Few interesting facts from the BOL, The growth rate for IT jobs thru 2030 is 13%, some of the top jobs are
+Computer Programmer
+Software Developer
+Computer Support Specialist
 ### Certifications
+CompTia- Acts as a gateway into the tech field for some people. With little to know experience you can get a help desk job with a comptia Cert.
+Cisco- Opens the door for higher certs, starting with a beginner cert all the way up to Architect.
+CISSP- Is designed to help you get a security job.
 ### Certificates and Degrees
+A few Certs and degress Im interested in are Cybersecurity, Data Analytics, Computer Networking.
 ### Co-ops / Internships
 ### Industry Associations / Student Organizations
 
