@@ -86,4 +86,4 @@ A few Certs and degrees I'm interested in are Cybersecurity, Data Analytics, Com
 
 ## Conclusion 
 
-What I have learned from this lab is, Virtualization is used to help maintain server usage, through virtualization many companies can cut cost as well as solve a common problem. I learned a few different types of certs and how they can align with my current career path. I was able to do some research on different jobs and salaries with the information on certs. I learn what and how to pseudo code, and how the python language is pseudo-co
+What I have learned from this lab is, Virtualization is used to help maintain server usage, through virtualization many companies can cut cost as well as solve a common problem. I learned a few different types of certs and how they can align with my current career path. I was able to do some research on different jobs and salaries with the information on certs. I learn what and how to pseudo code, and how the python language is pseudo-code friendly. Python has an easier type being converted from pseudo-code to computer language. 
